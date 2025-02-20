@@ -10,15 +10,9 @@ order: 4
 I’m **Alina Vozna**, a Ph.D. researcher passionate about **Artificial Intelligence, Robotics, and Healthcare Innovation**. My academic journey blends **AI, cognitive science, and healthcare technology**, aiming to create intelligent systems that enhance **patient care and medical efficiency**.
 
 ### **🎓 Academic Background**
-Currently, I’m part of the **Ph.D. program in AI for Society** at the **University of Pisa & University of L'Aquila**, focusing on:
-- **🤖 Empathetic AI & Intelligent Robotics** for healthcare.
-- **🧠 Theory of Mind (ToM) & Affective Computing** to develop AI that understands human emotions.
-- **📡 Wearable Technology & Continuous Monitoring** for personalized patient care.
+Currently, I’m part of the **Ph.D. program in AI for Society** at the **University of Pisa & University of L'Aquila**.
+I obtained my bachelor degree in Information society and foreign languages at the University of Tor Vergata in 2019 and my master degree in Digital Humanutues at the University of Pisa in 2022. From 2022 to 2023 I worked as a research fellow at the CNR in Pisa.
 
-### **🚀 Research & Projects**
-- **AI-powered Patient Navigation** – Simulating robots in CoppeliaSim to help patients navigate safe hospital routes.
-- **Emotion-Aware Chatbots** – Enhancing AI's ability to recognize **tone, prosody, and mood** in speech.
-- **Personalized Dietary Assistance** – Implementing **ASP-based constraints** for AI-driven dietary recommendations.
 
 ### **🌍 Beyond Research**
 I thrive in **interdisciplinary environments** and believe in the power of **curiosity, inclusivity, and collaboration**. Outside of research, I enjoy:
