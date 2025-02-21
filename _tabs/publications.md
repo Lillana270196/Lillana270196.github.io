@@ -3,6 +3,7 @@
 title: "Publications"
 icon: fas fa-book
 order: 3
+layout: page
 ---
 
 ## 📚 Publications  
