@@ -1,4 +1,9 @@
-
+---
+# The default layout is 'page'
+title: "Publications"
+icon: fas fa-info-circle
+order: 3
+---
 ## 📚 Publications
 
 1. [Ethical, Legal, and Societal Dimensions of AI-Driven Social Robots in Elderly Healthcare](https://journals.sagepub.com/doi/pdf/10.1177/17248035241310192)  
