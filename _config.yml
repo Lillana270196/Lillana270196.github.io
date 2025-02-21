@@ -170,18 +170,7 @@ collections:
   tabs:
     output: true
     sort_by: order
-tabs:
-  - title: "Home"
-    icon: fas fa-home
-    order: 1
 
-  - title: "About"
-    icon: fas fa-user
-    order: 2
-
-  - title: "Publications"
-    icon: fas fa-book
-    order: 3
 
 defaults:
   - scope:
