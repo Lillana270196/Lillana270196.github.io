@@ -21,7 +21,6 @@ I thrive in **interdisciplinary environments** and believe in the power of **cur
 - Connecting with like-minded innovators 🤝
 
 ### **📬 Let’s Connect!**
-📧 Email: example@domain.com  
-🔗 [GitHub](https://github.com/Lillana270196)  
-🔗 [Twitter](https://twitter.com/Lillana270196)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) (Replace with actual link)
+📧 Email: alina.vozna@phd.unipi.it / alina.vozna@student.univaq.it
+🔗 [GitHub](https://github.com/Lillana270196)   
+🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alina-vozna-41a12220a/))
