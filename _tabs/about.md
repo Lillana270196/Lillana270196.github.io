@@ -2,7 +2,7 @@
 # The default layout is 'page'
 title: "About Me"
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
 
 ## Hi there! 👋
