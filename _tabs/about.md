@@ -23,4 +23,4 @@ I thrive in **interdisciplinary environments** and believe in the power of **cur
 ### **📬 Let’s Connect!**
 📧 Email: alina.vozna@phd.unipi.it / alina.vozna@student.univaq.it
 🔗 [GitHub](https://github.com/Lillana270196)   
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alina-vozna-41a12220a/))
+🔗 [LinkedIn]([Alina Vozna](https://www.linkedin.com/in/alina-vozna-41a12220a/))
