@@ -1,4 +1,5 @@
 ---
+layout: page
 # The default layout is 'page'
 title: "About Me"
 icon: fas fa-info-circle
