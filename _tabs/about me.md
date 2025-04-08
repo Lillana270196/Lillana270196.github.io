@@ -4,6 +4,7 @@ layout: page
 title: "About Me"
 icon: fas fa-info-circle
 order: 1
+permalink: /about/
 ---
 
 ## Hi there! 👋
