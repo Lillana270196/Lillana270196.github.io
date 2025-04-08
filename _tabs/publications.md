@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 icon: fas fa-book
-order: 3
+order: 2
 layout: page
 ---
 
